@@ -33,3 +33,14 @@ footer {
   font-weight: bold;
   margin-bottom: 10px;
 }
+
+.widget-content {
+  font-size: 14px;
+}
+
+.footer-bottom {
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
