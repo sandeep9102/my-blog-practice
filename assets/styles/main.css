@@ -17,3 +17,17 @@ header {
   margin: 0 auto;
   padding: 20px;
 }
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.dark-mode header {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.dark-mode .container {
+  background-color: #1e1e1e;
+}
