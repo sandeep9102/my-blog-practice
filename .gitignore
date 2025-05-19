@@ -18,3 +18,5 @@ desktop.ini
 *.swp
 *.swo
 *~
+# Temporary log files
+temp.log
